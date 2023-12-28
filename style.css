@@ -1,0 +1,11 @@
+body{
+    background-image: url(table.jpg);
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+h1{
+    color: yellow;
+}
